@@ -82,7 +82,6 @@ The apiKey is hardcoded in the test file for simplicity. You can also save it in
 
 ## Video Demo
 
-<video width="600" controls>
-  <source src="fetch_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Click the `fetch_demo.mp4` file below, then click the **Download** button on the right to download the video and play it on your local machine.
+
+[fetch_demo.mp4](fetch_demo.mp4)
