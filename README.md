@@ -82,6 +82,12 @@ The apiKey is hardcoded in the test file for simplicity. You can also save it in
 
 ## Demo Video
 
-[Watch the demo video](./media/fetch_demo.mp4)
+## Video Demo
+
+<video width="600" controls>
+  <source src="fetch_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
