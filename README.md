@@ -80,14 +80,9 @@ The test suite covers the following scenarios:
 ## Notes
 The apiKey is hardcoded in the test file for simplicity. You can also save it in a .env file and reference it within the test file.
 
-## Demo Video
-
 ## Video Demo
 
 <video width="600" controls>
   <source src="fetch_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-
-
